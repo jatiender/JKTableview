@@ -1,9 +1,6 @@
 # JKTableView
 
-[![CI Status](http://img.shields.io/travis/JKTableView/JKTableView.svg?style=flat)](https://travis-ci.org/JKTableView/JKTableView)
-[![Version](https://img.shields.io/cocoapods/v/JKTableView.svg?style=flat)](http://cocoapods.org/pods/JKTableView)
-[![License](https://img.shields.io/cocoapods/l/JKTableView.svg?style=flat)](http://cocoapods.org/pods/JKTableView)
-[![Platform](https://img.shields.io/cocoapods/p/JKTableView.svg?style=flat)](http://cocoapods.org/pods/JKTableView)
+
 
 ## Usage
 
