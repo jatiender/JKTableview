@@ -1,7 +1,7 @@
 # JKTableView
 
 
-
+https://api.travis-ci.org/asciinema/asciinema.svg?branch=master
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
